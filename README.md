@@ -1,4 +1,5 @@
 # Distracted-Driver-Detection using Deep Learning 
+https://towardsdatascience.com/distracted-driver-detection-using-deep-learning-e893715e02a4
 
 ## Overview:
 Driving a car is a complex task, and it requires complete attention. Distracted driving is any activity that takes away the driver’s attention from the road. The National Highway Traffic Safety Administration (NHTSA) reported that 36,750 people died in motor vehicle crashes in 2018, and 12% of it was due to distracted driving. 
